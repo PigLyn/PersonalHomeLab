@@ -1,4 +1,4 @@
-# Home Lab
+# In progress Home Lab documentation!
 
 A hands-on home networking and IT infrastructure lab built to develop
 networking, systems administration, troubleshooting, and cybersecurity skills.
